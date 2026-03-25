@@ -1,4 +1,6 @@
-# Etch-a-Sketch Project
+# Project: Etch-a-Sketch Project
+
+### Instruction from The Odin Project: Foundations Path
 1. Create a webpage with a 16x16 grid of square divs.
     - Create the divs using JavaScript. Don’t try to create them by hand by copying and pasting them in your HTML file!
 
